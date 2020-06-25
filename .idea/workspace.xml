@@ -41,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson_1_task_3.py" />
   </component>
-  <component name="RunManager" selected="Python.task_1">
+  <component name="RunManager" selected="Python.task_2">
     <configuration name="lesson_1_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_geekbrains" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,9 +149,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_2" />
         <item itemvalue="Python.task_1" />
         <item itemvalue="Python.task_3" />
-        <item itemvalue="Python.task_2" />
         <item itemvalue="Python.lesson_1_task_3" />
         <item itemvalue="Python.lesson_1_task_2" />
       </list>
