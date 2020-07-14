@@ -5,18 +5,14 @@ class Car:
         self.name = car_name
         self.is_police = car_is_police
 
-
     def go(self):
         print("Car is drive")
-
 
     def stop(self):
         print("Car is stopped")
 
-
     def turn(self, direction):
         print(f"Car is turned on {direction}")
-
 
     def show_speed(self):
         print(f"Speed of {self.name}:{self.speed} km/h")
@@ -28,7 +24,6 @@ class TownCar(Car):
             print(f"Speed of {self.name} greater than 60 km/h")
         else:
             print(f"Speed of {self.name}:{self.speed} km/h")
-
 
 
 class SportCar(Car):
@@ -45,7 +40,7 @@ class WorkCar(Car):
 
 class PoliceCar(Car):
     def police(self):
-        if self.is_police == True:
+        if self.is_police:
             print("Pogonya")
 
 
