@@ -21,4 +21,3 @@ color = ['red', 'yellow', 'green']
 
 my_trLight = TrafficLight(color)
 my_trLight.running()
-# print(my_trLight._TrafficLight__color)
